@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">SwiftRide</string>
     <string name="title_activity_maps">SwiftRide</string>
-    <string name="google_maps_key">AIzaSyDWGCgK6PpXbix4hMpd_foH4COzKIEq8Ig</string>
+    <string name="google_maps_key">YourGoogleApikey</string>
 </resources>
