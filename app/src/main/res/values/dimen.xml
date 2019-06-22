@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="cluster_width">16dp</dimen>
+    <dimen name="cluster_height">10dp</dimen>
+    <dimen name="marker_padding">6dp</dimen>
+
+</resources>

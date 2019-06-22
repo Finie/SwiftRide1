@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "530558923169",
+    "firebase_url": "https://swiftride-1b4f9.firebaseio.com",
+    "project_id": "swiftride-1b4f9",
+    "storage_bucket": "swiftride-1b4f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530558923169:android:3263a73bece89225",
+        "android_client_info": {
+          "package_name": "com.finie.swiftride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530558923169-9bl1o1up6d9dd6aohrpch78m1su0iei3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.finie.swiftride",
+            "certificate_hash": "a38d90a953c2dabae3151097e1c316983c0a3a70"
+          }
+        },
+        {
+          "client_id": "530558923169-15b1aksmi3a627k627fgoi40odq5t9ad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0jxRz_2PVliHyTLtm30AV3D0VU7C-G2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530558923169-15b1aksmi3a627k627fgoi40odq5t9ad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

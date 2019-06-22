@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context=".Booking">
+
+
+    <ImageView
+        android:src="@mipmap/ic_car"
+        android:id="@+id/carIcon"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        />
+
+    <EditText
+        android:id="@+id/carDetails"
+        android:layout_toRightOf="@id/carIcon"
+        android:hint="Name of the vehicle"
+        android:textSize="16sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+
+
+    <ImageView
+        android:src="@mipmap/ic_dire"
+        android:id="@+id/dirIcon"
+        android:layout_marginTop="16dp"
+        android:layout_below="@id/carIcon"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        />
+
+    <EditText
+        android:id="@+id/DireDetails"
+        android:layout_toRightOf="@id/dirIcon"
+        android:hint="Name of the vehicle"
+        android:textSize="16sp"
+        android:layout_marginTop="16dp"
+        android:layout_below="@id/carDetails"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+
+
+
+    <Button
+        android:id="@+id/buttonSubmit"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@color/colorPrimary"
+        android:text="Submit"
+        android:textColor="#fff"
+        android:textSize="16sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</RelativeLayout>
